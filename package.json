@@ -1,0 +1,15 @@
+{
+  "name": "sha_core_lib",
+  "version": "1.0.0",
+  "description": "the Core Library of Sha Frame ",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "sha"
+  ],
+  "author": "bulang",
+  "license": "ISC"
+}
